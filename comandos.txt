@@ -1,0 +1,10 @@
+para correr el servidor
+node app.js
+
+para instalar
+para un proyecto nuevo (npm install nombre_dependencia)
+para cuando el proyecto ya esta avanzado (npm install)
+
+GIT:
+crear rama: git branch nombre_rama
+crear rama y pasarse a ella: git checkout -b nombre_rama
