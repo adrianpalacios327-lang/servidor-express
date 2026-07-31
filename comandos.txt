@@ -1,0 +1,23 @@
+INICIAR SERVIDOR, CORRER APLICACION
+node app.js
+
+PARA INSTALAR
+npm install nombre_dependencia
+npm install
+
+GTI:
+Crear rama: git branch nombre_rama
+crear rama y pasarse a ella: git checkout -b nombre_rama
+
+Cambiar de rama: git checkout nombre_rama
+
+Ver configuracion de git: git config --global --list
+git config --list
+
+Borrar configuracion: git config --global --unset user.name
+git config --global --unset user.email
+git config --unset remote.origin.url
+git config remote.origin.url https://mirepositorio_remoto.git
+
+CONFIGURACION DE VARIABLES DE ENTORNO
+node --watch app.js
